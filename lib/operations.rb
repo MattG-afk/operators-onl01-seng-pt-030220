@@ -20,6 +20,7 @@ speed >=60 ? true:false
   else 
      false
 end
+end
 	
 
 
